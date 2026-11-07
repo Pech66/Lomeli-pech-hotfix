@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KYwN3/3IEBA=",
+  "success": true,
+  "projectFilePath": "/Users/juanda/Documents/Universidad/Desarrollo Movil Integral/Unidad2/Lomeli-pech-hotfix/PraticaOfix.csproj",
+  "expectedPackageFiles": [
+    "/Users/juanda/.nuget/packages/microsoft.netcore.app.ref/8.0.31/microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "/Users/juanda/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.31/microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512",
+    "/Users/juanda/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.31/microsoft.netcore.app.host.osx-arm64.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
