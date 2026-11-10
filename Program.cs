@@ -7,7 +7,7 @@
             Personaje personaje = new Personaje
             {
                 Nombre = "Pech",
-                vida = 5,
+                vida = -415,
                 Ataque = 3,
                 Defensa = 2,
                 Nivel = 2
